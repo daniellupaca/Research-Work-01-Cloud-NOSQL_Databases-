@@ -1,6 +1,13 @@
 
 # Creating an Application with Amazon RDS and MySQL in the Cloud
 
+
+### Course: TÓPICOS DE BASE DE DATOS A
+
+### Teacher: Mag. Patrick Cuadros Quiroga
+
+### Alumno: Ronal Daniel Lupaca Mamani
+
 ## Introduction
 
 Modern application development has shifted towards cloud-based solutions due to their scalability, flexibility, and ease of integration. Cloud databases play a crucial role by enabling developers to manage data efficiently and securely. This article discusses the creation of an application using Amazon RDS with MySQL as a cloud-hosted SQL database, exploring the advantages of this architecture and outlining the workflow for its implementation. The choice of Amazon RDS and MySQL is based on its simplified management, reliable performance, and automated scalability.
