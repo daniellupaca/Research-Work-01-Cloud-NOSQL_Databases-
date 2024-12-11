@@ -70,7 +70,8 @@ The application demonstrated stable performance in data management and communica
 
 ## VIDEO 
 
-
+## ARTICULO 
+https://dev.to/ronal_daniellupacamaman/creating-an-application-with-amazon-rds-and-mysql-in-the-cloud-4d0m
 
 ## References
 
